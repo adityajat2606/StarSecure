@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352811433002",
+    "project_id": "home-security-c3ffa",
+    "storage_bucket": "home-security-c3ffa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352811433002:android:368151abe755ae35621753",
+        "android_client_info": {
+          "package_name": "com.vitproject.home_security"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352811433002-1nvunm0moc3q6fpcrvdf92b6diu0fl62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCACrQwiGsvwr_89hMyYgfvFKwf1wi8Ncg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352811433002-1nvunm0moc3q6fpcrvdf92b6diu0fl62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
